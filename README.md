@@ -1,6 +1,8 @@
 # React-EmpoyeeDIR
   ## Description
   Employee directory made using React.
+  [![Desktop html output](./assets/Team-gen-videolink.png)](https://www.youtube.com/watch?v=ycYTKvr9ps0&feature=youtu.be)
+
   ### Table of contents
   1. [Description](#Description)
   2. [Table of Contents](#Table-of-Contents)
